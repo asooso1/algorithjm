@@ -15,6 +15,7 @@
 | 1158 |✅|[바로가기](https://acmicpc.net/problem/1158) |
 | 1197 |✅|[바로가기](https://acmicpc.net/problem/1197) |
 | 1269 |✅|[바로가기](https://acmicpc.net/problem/1269) |
+| 1300 |✅|[바로가기](https://acmicpc.net/problem/1300) |
 | 1305 |✅|[바로가기](https://acmicpc.net/problem/1305) |
 | 1463 |✅|[바로가기](https://acmicpc.net/problem/1464) |
 | 1541 |✅|[바로가기](https://acmicpc.net/problem/1541) |
