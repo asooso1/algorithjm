@@ -47,6 +47,7 @@
 | 10815|✅|[바로가기](https://acmicpc.net/problem/10815) |
 | 10816|✅|[바로가기](https://acmicpc.net/problem/10816) |
 | 10845|✅|[바로가기](https://acmicpc.net/problem/10845) |
+| 10989|✅|[바로가기](https://acmicpc.net/problem/10989) |
 | 11047|✅|[바로가기](https://acmicpc.net/problem/11047) |
 | 11399|✅|[바로가기](https://acmicpc.net/problem/11399) |
 | 11478|✅|[바로가기](https://acmicpc.net/problem/11478) |
@@ -68,6 +69,7 @@
 | 17472|✅|[바로가기](https://acmicpc.net/problem/17472) |
 | 17608|✅|[바로가기](https://acmicpc.net/problem/17608) |
 | 17609|✅|[바로가기](https://acmicpc.net/problem/17609) |
+| 19532|✅|[바로가기](https://acmicpc.net/problem/19532) |
 | 24416|✅|[바로가기](https://acmicpc.net/problem/24416) |
 
 ## [프로그래머스](./Programmers) ([홈페이지](https://school.programmers.co.kr/learn/challenges?order=recent&statuses=solved))
