@@ -49,6 +49,7 @@
 | 10845|✅|[바로가기](https://acmicpc.net/problem/10845) |
 | 10989|✅|[바로가기](https://acmicpc.net/problem/10989) |
 | 11047|✅|[바로가기](https://acmicpc.net/problem/11047) |
+| 11066|✅|[바로가기](https://acmicpc.net/problem/11066) |
 | 11399|✅|[바로가기](https://acmicpc.net/problem/11399) |
 | 11478|✅|[바로가기](https://acmicpc.net/problem/11478) |
 | 11497|✅|[바로가기](https://acmicpc.net/problem/11497) |
