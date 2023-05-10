@@ -17,6 +17,7 @@
 | 1269 |✅|[바로가기](https://acmicpc.net/problem/1269) |
 | 1300 |✅|[바로가기](https://acmicpc.net/problem/1300) |
 | 1305 |✅|[바로가기](https://acmicpc.net/problem/1305) |
+| 1316 |✅|[바로가기](https://acmicpc.net/problem/1316) |
 | 1463 |✅|[바로가기](https://acmicpc.net/problem/1464) |
 | 1541 |✅|[바로가기](https://acmicpc.net/problem/1541) |
 | 1620 |✅|[바로가기](https://acmicpc.net/problem/1620) |
@@ -45,9 +46,11 @@
 | 9461 |✅|[바로가기](https://acmicpc.net/problem/9461) |
 | 10162|✅|[바로가기](https://acmicpc.net/problem/10162) |
 | 10773|✅|[바로가기](https://acmicpc.net/problem/10773) |
+| 10812|✅|[바로가기](https://acmicpc.net/problem/10812) |
 | 10815|✅|[바로가기](https://acmicpc.net/problem/10815) |
 | 10816|✅|[바로가기](https://acmicpc.net/problem/10816) |
 | 10845|✅|[바로가기](https://acmicpc.net/problem/10845) |
+| 10988|✅|[바로가기](https://acmicpc.net/problem/10988) |
 | 10989|✅|[바로가기](https://acmicpc.net/problem/10989) |
 | 11047|✅|[바로가기](https://acmicpc.net/problem/11047) |
 | 11066|✅|[바로가기](https://acmicpc.net/problem/11066) |
@@ -74,6 +77,7 @@
 | 19532|✅|[바로가기](https://acmicpc.net/problem/19532) |
 | 23000|✅|[바로가기](https://acmicpc.net/problem/23000) |
 | 24416|✅|[바로가기](https://acmicpc.net/problem/24416) |
+| 25192|✅|[바로가기](https://acmicpc.net/problem/25192) |
 
 ## [프로그래머스](./Programmers) ([홈페이지](https://school.programmers.co.kr/learn/challenges?order=recent&statuses=solved))
 
