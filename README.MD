@@ -21,6 +21,7 @@
 | 1463 |✅|[바로가기](https://acmicpc.net/problem/1464) |
 | 1541 |✅|[바로가기](https://acmicpc.net/problem/1541) |
 | 1620 |✅|[바로가기](https://acmicpc.net/problem/1620) |
+| 1629 |✅|[바로가기](https://acmicpc.net/problem/1629) |
 | 1644 |✅|[바로가기](https://acmicpc.net/problem/1644) |
 | 1764 |✅|[바로가기](https://acmicpc.net/problem/1764) |
 | 1774 |✅|[바로가기](https://acmicpc.net/problem/1774) |
@@ -36,6 +37,7 @@
 | 2580 |❌|[바로가기](https://acmicpc.net/problem/2580) |
 | 2630 |✅|[바로가기](https://acmicpc.net/problem/2630) |
 | 2698 |✅|[바로가기](https://acmicpc.net/problem/2698) |
+| 2740 |✅|[바로가기](https://acmicpc.net/problem/2740) |
 | 2839 |✅|[바로가기](https://acmicpc.net/problem/2839) |
 | 2872 |✅|[바로가기](https://acmicpc.net/problem/2872) |
 | 4386 |✅|[바로가기](https://acmicpc.net/problem/4386) |
@@ -78,6 +80,7 @@
 | 23000|✅|[바로가기](https://acmicpc.net/problem/23000) |
 | 24416|✅|[바로가기](https://acmicpc.net/problem/24416) |
 | 25192|✅|[바로가기](https://acmicpc.net/problem/25192) |
+| 26069|✅|[바로가기](https://acmicpc.net/problem/26069) |
 
 ## [프로그래머스](./Programmers) ([홈페이지](https://school.programmers.co.kr/learn/challenges?order=recent&statuses=solved))
 
