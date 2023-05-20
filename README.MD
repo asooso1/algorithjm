@@ -19,7 +19,8 @@
 | 1300      | ✅       | [바로가기](https://acmicpc.net/problem/1300)  |
 | 1305      | ✅       | [바로가기](https://acmicpc.net/problem/1305)  |
 | 1316      | ✅       | [바로가기](https://acmicpc.net/problem/1316)  |
-| 1463      | ✅       | [바로가기](https://acmicpc.net/problem/1464)  |
+| 1427      | ✅       | [바로가기](https://acmicpc.net/problem/1427)  |
+| 1463      | ✅       | [바로가기](https://acmicpc.net/problem/1463)  |
 | 1541      | ✅       | [바로가기](https://acmicpc.net/problem/1541)  |
 | 1620      | ✅       | [바로가기](https://acmicpc.net/problem/1620)  |
 | 1629      | ✅       | [바로가기](https://acmicpc.net/problem/1629)  |
