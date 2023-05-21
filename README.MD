@@ -40,6 +40,7 @@
 | 2580      | ❌       | [바로가기](https://acmicpc.net/problem/2580)  |
 | 2630      | ✅       | [바로가기](https://acmicpc.net/problem/2630)  |
 | 2698      | ✅       | [바로가기](https://acmicpc.net/problem/2698)  |
+| 2720      | ✅       | [바로가기](https://acmicpc.net/problem/2720)  |
 | 2738      | ✅       | [바로가기](https://acmicpc.net/problem/2738)  |
 | 2740      | ✅       | [바로가기](https://acmicpc.net/problem/2740)  |
 | 2745      | ✅       | [바로가기](https://acmicpc.net/problem/2745)  |
