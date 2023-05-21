@@ -33,6 +33,7 @@
 | 1912      | ✅       | [바로가기](https://acmicpc.net/problem/1912)  |
 | 1932      | ✅       | [바로가기](https://acmicpc.net/problem/1932)  |
 | 2164      | ✅       | [바로가기](https://acmicpc.net/problem/2164)  |
+| 2292      | ✅       | [바로가기](https://acmicpc.net/problem/2292)  |
 | 2447      | ✅       | [바로가기](https://acmicpc.net/problem/2447)  |
 | 2563      | ✅       | [바로가기](https://acmicpc.net/problem/2563)  |
 | 2579      | ✅       | [바로가기](https://acmicpc.net/problem/2579)  |
